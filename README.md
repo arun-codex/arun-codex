@@ -3,12 +3,13 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arun+Kumar;BCA+Student+%7C+Security+Enthusiast;Building+AI-Powered+Systems;Ethical+Hacker+in+Training" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arun+Kumar;BCA+Student+%7C+Security+Enthusiast;Cybersecurity+%26+Ethical+Hacking;Building+Secure+Systems;Learning+%7C+Breaking+%7C+Securing" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrarunkumar18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/mrarunkumar18?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/mrarunkumar18?label=Total%20Stars&style=social" alt="stars" />
 </p>
 
 ---
@@ -16,25 +17,29 @@
 ## 🎯 About Me
 
 ```yaml
-name: Arun Kumar
-location: Surat, Gujarat (from Patna, Bihar)
-education: 1st Year BCA @ Parul University
-focus: 
-  - Cybersecurity & Ethical Hacking
-  - AI System Architecture
-  - Developer Tools & Automation
-current_role: Student | Builder | Security Researcher
-philosophy: "Build. Break. Learn. Repeat."
-status: Turning caffeine into secure code ☕
+name: Arun Kumar (Golu)
+location: Surat, Gujarat (originally from Patna, Bihar)
+education: 1st Year BCA @ Parul University (Online + Offline Events)
+specialization: Cybersecurity & Information Security
+background: C Programming | System Security | Network Fundamentals
+current_focus: 
+  - Ethical Hacking & Penetration Testing
+  - Linux System Administration & Hardening
+  - Web Application Security (OWASP Top 10)
+  - Network Security & Protocol Analysis
+learning_platforms: TryHackMe | HackTheBox | PortSwigger Academy
+mindset: "Build. Break. Secure. Repeat."
+status: 🔐 Turning curiosity into cyber defense skills
 ```
 
-### 🔥 What I'm Up To
+### 🔥 What I'm Up To Right Now
 
-- 🛡️ **Mastering cybersecurity fundamentals** — networking, penetration testing, and defensive security
-- 🤖 **Building AI-powered developer tools** — autonomous coding assistants and intelligent workflows
-- 🔐 **CTF challenges & security labs** — practicing on TryHackMe, HackTheBox, and PortSwigger
-- 📚 **Learning path**: Linux → Networking → Web Security → Network Security → OSCP prep
-- 💻 **Tech experimentation** — pushing boundaries with MCP architecture and AI integration
+- 🛡️ **Mastering cybersecurity fundamentals** — TCP/IP, DNS, HTTP/S, and network protocols
+- 🔐 **Hands-on penetration testing** — practicing real-world scenarios on CTF platforms
+- 🐧 **Linux deep dive** — system administration, shell scripting, and privilege escalation
+- 🌐 **Web security training** — OWASP Top 10, SQLi, XSS, CSRF, and authentication bypasses
+- 🔨 **Building security tools** — custom scanners, automation scripts, and lab environments
+- 📖 **Ethical hacking roadmap** — progressing from fundamentals to advanced exploitation
 
 ---
 
@@ -42,138 +47,147 @@ status: Turning caffeine into secure code ☕
 
 <p align="center">
 
-### Languages & Core Tech
-<img src="https://skillicons.dev/icons?i=c,js,ts,python,nodejs,bash" />
+### Programming & Scripting
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,npm" />
+### Operating Systems & Environments
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Parrot_OS-33B5E5?style=for-the-badge&logo=linux&logoColor=white" />
 
-### Learning & Exploring
-<img src="https://skillicons.dev/icons?i=react,mongodb,express,tailwind,postgres,redis" />
+### Development & Version Control
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 </p>
 
 <details>
-<summary>🔐 <b>Cybersecurity Toolkit</b> (click to expand)</summary>
+<summary>🔐 <b>Cybersecurity Toolkit & Skills</b> (click to expand)</summary>
 <br>
 
-**Reconnaissance & Scanning**
-- `Nmap` • `Wireshark` • `Burp Suite` • `OWASP ZAP`
+### 🔍 Reconnaissance & Information Gathering
+- **Network Scanning:** `Nmap` • `Masscan` • `Netcat`
+- **Web Recon:** `WHOIS` • `DNSrecon` • `theHarvester` • `Sublist3r`
+- **OSINT:** `Maltego` • `Shodan` • `Google Dorking`
 
-**Exploitation & Testing**
-- `Metasploit` • `sqlmap` • `Hydra` • `John the Ripper`
+### 🌐 Web Application Security
+- **Testing Tools:** `Burp Suite` • `OWASP ZAP` • `Nikto` • `SQLmap`
+- **Practice Labs:** `DVWA` • `bWAPP` • `PortSwigger Web Security Academy`
+- **Vulnerabilities:** SQL Injection • XSS • CSRF • Authentication Bypass • File Upload
 
-**Web Security**
-- `DVWA` • `bWAPP` • `PortSwigger Web Security Academy`
+### 💥 Exploitation & Post-Exploitation
+- **Frameworks:** `Metasploit Framework` • `Exploit-DB`
+- **Password Attacks:** `Hydra` • `John the Ripper` • `Hashcat`
+- **Privilege Escalation:** Linux & Windows techniques
 
-**Operating Systems**
-- `Kali Linux` • `Parrot OS` • `Ubuntu Server`
+### 📡 Network Security & Analysis
+- **Packet Analysis:** `Wireshark` • `tcpdump`
+- **Network Protocols:** TCP/IP, DNS, HTTP/S, FTP, SSH, SMB
+- **Firewall & IDS:** Understanding defensive security
 
-**Currently Studying**
-- Network protocols (TCP/IP, DNS, HTTP/S)
-- OWASP Top 10 vulnerabilities
-- Linux privilege escalation
-- Web application security
+### 🎓 Learning & Certification Path
+- **Active Platforms:** TryHackMe • HackTheBox • PortSwigger Academy
+- **Target Certifications:** eJPT → Security+ → CEH → OSCP
+- **Current Phase:** Fundamentals & Core Skills Building
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Security Work
 
-### 🧠 [Antigravity IDE](https://github.com/mrarunkumar18/antigravity)
-**AI-Powered Development Environment**
+### 🔐 Security Projects (In Development)
 
-```typescript
-// Production-grade MCP architecture with intelligent tooling
-const features = {
-  smartAssistance: "Context-aware code suggestions",
-  mcpIntegration: "16+ specialized tools via Model Context Protocol",
-  automation: "AI-driven workflow optimization",
-  security: "RBAC, API key vault, sandboxed execution"
-};
-```
+#### **Network Security Scanner**
+Building a custom network reconnaissance and vulnerability scanning tool
+- Port scanning with service detection
+- Banner grabbing and version identification
+- Automated vulnerability checks
+- Results export in multiple formats
 
-**Tech Stack:** TypeScript • Node.js • MCP SDK • Event-Driven Architecture  
-**Status:** 🟢 Active Development | **Goal:** Autonomous coding system
+#### **Web Application Security Toolkit**
+Collection of Python scripts for web security testing
+- SQL injection detector
+- XSS vulnerability scanner
+- Directory enumeration tool
+- Subdomain discovery automation
 
----
+#### **CTF Writeups & Documentation**
+Documenting my learning journey through challenges
+- TryHackMe room solutions
+- HackTheBox machine walkthroughs
+- Vulnerability analysis and exploitation techniques
+- Security tool usage guides
 
-### 📊 [TRI - Trading Research Intelligence](https://github.com/mrarunkumar18/tri)
-**AI Trading Research Assistant for Indian Markets**
-
-```python
-# Comprehensive market analysis with decision support
-features = {
-    "markets": ["NSE", "BSE", "F&O"],
-    "capabilities": [
-        "Technical indicator analysis",
-        "Tax calculations (STT, GST, Stamp Duty)",
-        "F&O lot size & margin data",
-        "Real-time market hours tracking"
-    ],
-    "focus": "Automation + Data-Driven Decisions"
-}
-```
-
-**Tech Stack:** Python • AI/ML Integration • Market Data APIs  
-**Status:** 🟡 Beta | **Goal:** Full-featured trading research platform
-
----
-
-### 🔐 Security Projects (Coming Soon)
-- **Network Scanner** — Custom port scanner with service detection
-- **Web Vuln Scanner** — Automated security testing tool
-- **CTF Writeups** — Solutions and learning documentation
+#### **Secure Coding Practice Projects**
+Building applications with security in mind
+- Authentication systems with secure practices
+- Input validation and sanitization implementations
+- Encryption and cryptography implementations
+- Secure API development
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarunkumar18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarunkumar18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarunkumar18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarunkumar18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrarunkumar18&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrarunkumar18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrarunkumar18&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrarunkumar18&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
 </p>
 
 ---
 
-## 🎓 Learning Journey
+## 🎓 Learning Journey & Roadmap
 
 <table>
   <tr>
-    <th>📚 Currently Studying</th>
+    <th>📚 Currently Mastering</th>
     <th>🎯 Next on Roadmap</th>
-    <th>🏆 Certifications Target</th>
   </tr>
   <tr>
     <td>
-      • Ethical Hacking Basics<br>
+      <b>Core Foundations</b><br>
+      • Ethical Hacking Fundamentals<br>
       • Linux System Administration<br>
-      • Network Protocols & Security<br>
+      • Network Protocols (TCP/IP, DNS)<br>
       • Web Application Security<br>
-      • Python for Security
+      • Python for Security Automation<br>
+      • OWASP Top 10 Vulnerabilities<br>
+      <br>
+      <b>Practical Training</b><br>
+      • TryHackMe Learning Paths<br>
+      • HackTheBox Challenges<br>
+      • PortSwigger Web Security Labs<br>
+      • CTF Competitions
     </td>
     <td>
-      • Penetration Testing<br>
-      • Cryptography<br>
-      • Malware Analysis<br>
-      • Cloud Security (AWS)<br>
-      • Advanced Exploitation
-    </td>
-    <td>
-      • eJPT (2024)<br>
-      • CompTIA Security+ (2025)<br>
-      • CEH (2025-26)<br>
-      • OSCP (2026-27)<br>
-      • OSWE (Future)
+      <b>Advanced Topics</b><br>
+      • Penetration Testing Methodology<br>
+      • Advanced Exploitation Techniques<br>
+      • Cryptography & Encryption<br>
+      • Malware Analysis Basics<br>
+      • Cloud Security (AWS/Azure)<br>
+      • Mobile Application Security<br>
+      <br>
+      <b>Professional Development</b><br>
+      • Bug Bounty Programs<br>
+      • Open Source Security Tools<br>
+      • Security Research & Blogging<br>
+      • Certification Preparation (eJPT/OSCP)
     </td>
   </tr>
 </table>
@@ -182,27 +196,31 @@ features = {
 
 ## 🏅 Achievements & Milestones
 
-- ✅ Built production-ready MCP server with 16+ tools
-- ✅ Designed F&O analysis system with scoring engine
-- ✅ Completed basic C programming fundamentals
-- 🔄 Active CTF learner on security platforms
-- 🎯 Contributing to open-source security tools (goal)
+- ✅ **Completed C programming fundamentals** — strong foundation in systems programming
+- 🔄 **Active CTF learner** — solving challenges on TryHackMe, HackTheBox, PortSwigger
+- 📖 **Building security toolkit** — developing custom scanning and testing tools
+- 🎯 **Open-source contributor (goal)** — planning to contribute to security projects
+- 🛡️ **Bug bounty hunter (aspiring)** — preparing for responsible disclosure programs
+- 🏆 **Certification journey** — targeting eJPT as first professional security certification
 
 ---
 
 ## 💡 What Makes Me Different
 
-> **I don't just learn — I build.** Every concept I study becomes a project. Every tool I discover gets integrated into my workflow. I'm not waiting for the "perfect moment" to start. I'm building my security career one commit, one challenge, one system at a time.
+> **I don't just learn — I apply.** Every vulnerability I study, I practice exploiting in a lab. Every defense mechanism I read about, I implement in code. Every security concept becomes a hands-on experiment. I'm not just memorizing techniques — I'm building real skills through deliberate practice.
 
-**My Approach:**
-- 🎯 **Problem-first learning** — build real tools, not just tutorials
-- 🔐 **Security mindset** — think like an attacker, build like a defender
-- 🤖 **AI-augmented workflow** — leveraging AI to amplify capabilities
-- 🚀 **Ship fast, iterate faster** — rapid prototyping with real-world testing
+### 🎯 My Security Mindset
+
+- **🔍 Curiosity-driven learning** — always asking "how does this break?"
+- **🔐 Think like an attacker, build like a defender** — understanding both sides
+- **🔨 Hands-on before theory** — learn by doing, break to understand
+- **📝 Document everything** — writeups, notes, lessons learned
+- **🤝 Community focused** — sharing knowledge, learning from others
+- **⚡ Ethical & responsible** — security with integrity and purpose
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:mrarunkumar1806@gmail.com">
@@ -219,19 +237,26 @@ features = {
   </a>
 </p>
 
+<p align="center">
+  <i>💬 Open to discussions about cybersecurity, ethical hacking, and security tools</i><br>
+  <i>🤝 Interested in collaborating on security projects and CTF teams</i>
+</p>
+
 ---
 
-## 📈 Contribution Activity
+## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+> **Note:** To enable auto-updating activity feed, set up [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme) workflow
+
 ---
 
-## 💭 Random Dev Quote
+## 💭 Security Wisdom
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+only+truly+secure+system+is+one+that+is+powered+off" alt="Security Quote"/>
 </p>
 
 ---
@@ -241,6 +266,6 @@ features = {
 </p>
 
 <p align="center">
-  <i>⭐ Star my repositories if you find them interesting!</i><br>
-  <i>🤝 Open to collaborations on security projects and AI tools</i>
+  <i>⭐ Star my repositories if you find them useful for your security journey!</i><br>
+  <i>🔐 Let's build a more secure digital world together</i>
 </p>
