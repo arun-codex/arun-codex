@@ -1,0 +1,105 @@
+name: 🔐 Daily Security Wisdom
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # allows manual trigger from GitHub UI
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Pick Random Security Quote
+        id: quote
+        run: |
+          # Curated list of real security quotes with proper attribution
+          declare -a QUOTES=(
+            '"Security is always excessive until it\'s not enough." | Robbie Sinclair'
+            '"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room." | Gene Spafford'
+            '"Amateurs hack systems, professionals hack people." | Bruce Schneier'
+            '"If you think technology can solve your security problems, then you don\'t understand the problems and you don\'t understand the technology." | Bruce Schneier'
+            '"The question is not if you will be hacked, but when." | Unknown'
+            '"Security is not a product, but a process." | Bruce Schneier'
+            '"Hackers are breaking the systems for profit. Before, it was about intellectual curiosity and the pursuit of knowledge." | Kevin Mitnick'
+            '"There is no such thing as perfect security, only varying levels of insecurity." | Salman Rushdie'
+            '"Privacy is not something that I\'m merely entitled to, it\'s an absolute prerequisite." | Marlon Brando'
+            '"The art of war teaches us to rely not on the likelihood of the enemy not coming, but on our own readiness to receive him." | Sun Tzu'
+            '"Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on." | Edward Snowden'
+            '"The hacker mindset does not see the world in terms of rules. It sees the world in terms of problems and solutions." | Steven Levy'
+            '"Never underestimate the determination of a kid who is time-rich and cash-poor." | Cory Doctorow'
+            '"To err is human, but to really foul things up you need a computer." | Paul Ehrlich'
+            '"The internet is a dangerous place, and the only way to be safe is to understand it." | Unknown'
+          )
+
+          # Pick a random quote
+          RANDOM_INDEX=$((RANDOM % ${#QUOTES[@]}))
+          SELECTED="${QUOTES[$RANDOM_INDEX]}"
+
+          # Split into quote and author
+          QUOTE_TEXT=$(echo "$SELECTED" | cut -d'|' -f1 | xargs)
+          QUOTE_AUTHOR=$(echo "$SELECTED" | cut -d'|' -f2 | xargs)
+
+          echo "quote_text=$QUOTE_TEXT" >> $GITHUB_OUTPUT
+          echo "quote_author=$QUOTE_AUTHOR" >> $GITHUB_OUTPUT
+
+      - name: Update README with New Quote
+        run: |
+          QUOTE="${{ steps.quote.outputs.quote_text }}"
+          AUTHOR="${{ steps.quote.outputs.quote_author }}"
+
+          # Build the replacement block
+          NEW_BLOCK="<!-- SECURITY-QUOTE-START -->\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/🔐_Security_Wisdom-Today's_Quote-1a1b27?style=for-the-badge&labelColor=1a1b27&color=00D9FF\" />\n</p>\n\n<p align=\"center\">\n  <blockquote>\n  <i>$QUOTE</i><br><br>\n  <b>— $AUTHOR</b>\n  </blockquote>\n</p>\n<!-- SECURITY-QUOTE-END -->"
+
+          # Replace content between the markers
+          python3 - <<'PYEOF'
+          import re, os
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          quote = os.environ.get("QUOTE_TEXT", "")
+          author = os.environ.get("QUOTE_AUTHOR", "")
+
+          new_block = f"""<!-- SECURITY-QUOTE-START -->
+          <p align="center">
+            <img src="https://img.shields.io/badge/🔐_Security_Wisdom-Today's_Quote-1a1b27?style=for-the-badge&labelColor=1a1b27&color=00D9FF" />
+          </p>
+
+          <p align="center">
+            <blockquote>
+            <i>{quote}</i><br><br>
+            <b>— {author}</b>
+            </blockquote>
+          </p>
+          <!-- SECURITY-QUOTE-END -->"""
+
+          updated = re.sub(
+              r"<!-- SECURITY-QUOTE-START -->.*?<!-- SECURITY-QUOTE-END -->",
+              new_block,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+
+          print(f"✅ Quote updated: {quote[:60]}...")
+          PYEOF
+        env:
+          QUOTE_TEXT: ${{ steps.quote.outputs.quote_text }}
+          QUOTE_AUTHOR: ${{ steps.quote.outputs.quote_author }}
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🔐 Daily Security Wisdom updated [skip ci]"
+          git push
