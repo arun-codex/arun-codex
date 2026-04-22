@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/26970933/README.md)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Arun%20Kumar&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
@@ -48,22 +49,13 @@ status: 🔐 Turning curiosity into cyber defense skills
 <p align="center">
 
 ### Programming & Scripting
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ### Operating Systems & Environments
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Parrot_OS-33B5E5?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Parrot_OS-33B5E5?style=for-the-badge&logo=linux&logoColor=white" />
 
 ### Development & Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 </p>
 
@@ -137,8 +129,8 @@ Building applications with security in mind
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarunkumar18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarunkumar18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarunkumar18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarunkumar18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -220,6 +212,25 @@ Building applications with security in mind
 
 ---
 
+## 💭 Security Wisdom
+
+<!-- SECURITY-QUOTE-START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔐_Security_Wisdom-Today's_Quote-1a1b27?style=for-the-badge&labelColor=1a1b27&color=00D9FF" />
+</p>
+
+<p align="center">
+  <blockquote>
+  <i>"Security is always excessive until it's not enough."</i><br><br>
+  <b>— Robbie Sinclair, Head of Security, Country Energy</b>
+  </blockquote>
+</p>
+<!-- SECURITY-QUOTE-END -->
+
+> 💡 **Auto-updates daily** via GitHub Actions — see `.github/workflows/update-quote.yml`
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -240,23 +251,6 @@ Building applications with security in mind
 <p align="center">
   <i>💬 Open to discussions about cybersecurity, ethical hacking, and security tools</i><br>
   <i>🤝 Interested in collaborating on security projects and CTF teams</i>
-</p>
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> **Note:** To enable auto-updating activity feed, set up [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme) workflow
-
----
-
-## 💭 Security Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+only+truly+secure+system+is+one+that+is+powered+off" alt="Security Quote"/>
 </p>
 
 ---
