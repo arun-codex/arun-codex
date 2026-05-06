@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26970933/README.md)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Arun%20Kumar&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
@@ -8,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrarunkumar18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mrarunkumar18?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/mrarunkumar18?label=Total%20Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/arun-codex?label=Total%20Stars&style=social" alt="stars" />
 </p>
 
 ---
@@ -129,16 +128,16 @@ Building applications with security in mind
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarunkumar18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarunkumar18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arun-codex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-codex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrarunkumar18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=arun-codex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrarunkumar18&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-codex&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
 </p>
 
 ---
@@ -243,7 +242,7 @@ Building applications with security in mind
   <a href="https://x.com/itz_arun_1806/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/mrarunkumar18">
+  <a href="https://github.com/arun-codex">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
