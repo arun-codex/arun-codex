@@ -128,12 +128,21 @@ Building applications with security in mind
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arun-codex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-codex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arun-codex&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arun-codex&theme=tokyonight" alt="repos per language"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arun-codex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arun-codex&theme=tokyonight" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arun-codex&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun-codex&theme=tokyonight" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arun-codex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="streak stats"/>
 </p>
 
 <p align="center">
