@@ -142,7 +142,7 @@ Building applications with security in mind
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arun-codex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="streak stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arun-codex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="streak stats"/>
 </p>
 
 <p align="center">
