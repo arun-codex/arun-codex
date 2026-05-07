@@ -142,11 +142,11 @@ Building applications with security in mind
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arun-codex&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" alt="trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=arun-codex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://nice-readme.vercel.app/streak-stats?user=arun-codex&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arun-codex&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" alt="trophies"/>
 </p>
 
 <p align="center">
