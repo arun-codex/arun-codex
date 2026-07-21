@@ -6,25 +6,33 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="lanyard.svg?v=1" alt="Arun Kumar ID Badge" height="340"/>
-</p>
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=arun-codex">
-    <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Profile%20Views&color=e040fb&style=flat-square" alt="profile views"/>
-  </a>
-  <a href="https://github.com/arun-codex?tab=followers">
-    <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=7c4dff&labelColor=0d0117" alt="followers"/>
-  </a>
-  <a href="https://github.com/arun-codex">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat-square&logo=github" alt="status"/>
-  </a>
-</p>
+<!-- ═══ LEFT: ID Card ═══ -->
+<img src="lanyard.svg?v=1" alt="Arun Kumar ID Badge" height="360"/>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<a href="https://komarev.com/ghpvc/?username=arun-codex">
+  <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=e040fb&style=flat-square" alt="profile views"/>
+</a>
+<br/>
+<a href="https://github.com/arun-codex?tab=followers">
+  <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=7c4dff&labelColor=0d0117" alt="followers"/>
+</a>
+<br/>
+<a href="https://github.com/arun-codex">
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square&logo=github" alt="status"/>
+</a>
+
+</td>
+<td width="65%" valign="top">
+
+<!-- ═══ RIGHT: About Me ═══ -->
+
+### 🧑‍💻 About Me
 
 ```yaml
 name       : Arun Kumar  # (Golu)
@@ -37,8 +45,22 @@ philosophy : "Build. Break. Secure. Repeat."
 hireable   : true
 ```
 
-> 🔐 I don't just learn — I apply. Every vulnerability I study, I practice in a lab.
+> 🔐 I don't just learn — I apply. Every vulnerability I study, I practice in a lab.  
 > Every concept becomes a hands-on experiment. Building real skills through deliberate practice.
+
+<br/>
+
+### 🔥 Right Now
+- 🛡️ **Mastering** ethical hacking & penetration testing
+- 🐧 **Deep diving** Linux system administration & shell scripting
+- 🌐 **Practicing** OWASP Top 10, SQLi, XSS, authentication bypasses
+- 🔨 **Building** custom security scanners & automation scripts
+- 🏁 **Solving** CTFs on TryHackMe · HackTheBox · PortSwigger
+- 🎯 **Targeting** eJPT → Security+ → CEH → OSCP certifications
+
+</td>
+</tr>
+</table>
 
 ---
 
