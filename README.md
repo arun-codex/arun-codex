@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="banner.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-    <img src="banner.svg?v=1" alt="Arun Kumar — Cybersecurity Developer Banner" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
+    <img src="banner.svg?v=2" alt="Arun Kumar — Cybersecurity Student & Developer Banner" width="100%"/>
   </picture>
 </p>
 
@@ -11,7 +11,7 @@
 <td width="35%" align="center" valign="top">
 
 <!-- ═══ LEFT: ID Card ═══ -->
-<img src="lanyard.svg?v=1" alt="Arun Kumar ID Badge" height="360"/>
+<img src="lanyard.svg?v=2" alt="Arun Kumar ID Badge" height="360"/>
 
 <br/>
 
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=7c4dff&labelColor=0d0117" alt="followers"/>
 </a>
 <br/>
-<a href="https://github.com/arun-codex">
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square&logo=github" alt="status"/>
+<a href="https://www.linkedin.com/in/arun-codex/">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square&logo=linkedin&logoColor=white" alt="open to internships"/>
 </a>
 
 </td>
@@ -35,28 +35,28 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name       : Arun Kumar  # (Golu)
+name       : Arun Kumar
 username   : @arun-codex
-location   : Surat, Gujarat, India
-education  : BCA 1st Year — Parul University
-focus      : Cybersecurity · Ethical Hacking · Penetration Testing
-learning   : TryHackMe · HackTheBox · PortSwigger Academy
-philosophy : "Build. Break. Secure. Repeat."
+location   : India
+education  : BCA @ Parul University
+focus      : Cybersecurity · Linux · Networking · Web Development
+learning   : Ethical Hacking · Network Security · Secure Development · Linux
+philosophy : "Learn. Build. Break. Understand. Improve."
 hireable   : true
 ```
 
-> 🔐 I don't just learn — I apply. Every vulnerability I study, I practice in a lab.  
-> Every concept becomes a hands-on experiment. Building real skills through deliberate practice.
+> 🛡️ I learn by building practical projects, running experiments, and turning concepts into working systems.
+> My focus is developing real-world cybersecurity and development skills through hands-on execution.
 
 <br/>
 
 ### 🔥 Right Now
-- 🛡️ **Mastering** ethical hacking & penetration testing
-- 🐧 **Deep diving** Linux system administration & shell scripting
-- 🌐 **Practicing** OWASP Top 10, SQLi, XSS, authentication bypasses
-- 🔨 **Building** custom security scanners & automation scripts
-- 🏁 **Solving** CTFs on TryHackMe · HackTheBox · PortSwigger
-- 🎯 **Targeting** eJPT → Security+ → CEH → OSCP certifications
+- 🛡️ **Building** practical cybersecurity projects and security-focused experiments
+- 🐧 **Deep diving** Linux system administration, permissions, and networking fundamentals
+- 🌐 **Exploring** network security, protocols, and practical security concepts
+- 💻 **Learning** secure software development and modern web technologies
+- 🤖 **Experimenting** with AI-powered applications and developer workflows
+- 🎯 **Seeking** cybersecurity / IT internship opportunities
 
 </td>
 </tr>
@@ -67,47 +67,57 @@ hireable   : true
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6D00?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 🔍 **Network Security Scanner** | Custom recon & vulnerability scanning tool | Python · Nmap · Socket | 🔨 Building |
-| 🌐 **Web App Security Toolkit** | SQLi detector, XSS scanner, dir enumeration | Python · Requests | 🔨 Building |
-| 🏁 **CTF Writeups** | TryHackMe & HackTheBox solutions | Markdown · Tools | ✅ Active |
-| 🔐 **Secure Coding Labs** | Auth systems, input validation, crypto impl | Python · C | 🔨 Building |
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 🔐 **Linux Access Control Simulation** | Simulated Linux permission systems using `chmod`, user roles, and file access management | Linux · Bash · Security | [GitHub](https://github.com/arun-codex) |
+| 🤖 **Ask Arun — AI Portfolio Assistant** | AI assistant integrated into my portfolio to answer questions about my background, skills, projects, and experience | Next.js · TypeScript · AI | [arunx.xyz](https://arunx.xyz) |
+| 🌦️ **Weather — UI Dashboard** | Modern weather dashboard with saved cities, 7-day forecasts, API integration, and responsive UI | React · Next.js · Tailwind | [Live](https://weather-omega-pink.vercel.app/) · [GitHub](https://github.com/arun-codex/Weather) |
+| 🌐 **Personal Portfolio Website** | Responsive portfolio focused on cybersecurity, development work, and recruiter visibility | Next.js · TypeScript · Vercel | [arunx.xyz](https://arunx.xyz) · [GitHub](https://github.com/arun-codex/portfolio) |
+| 💻 **System Programming Practice** | C programs and exercises focused on strengthening low-level programming fundamentals | C · Data Structures · Algorithms | [GitHub](https://github.com/arun-codex/c-learning-project) |
 
 </div>
+
+---
+
+## 🧠 How I Learn
+
+I learn by building.
+
+Instead of stopping at tutorials, I turn concepts into working projects, experiments, labs, and documentation. The goal is simple: understand how things work, test them, break them safely, and improve them.
+
+**Learn → Build → Break → Understand → Improve**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="stats.svg?v=1" alt="GitHub Stats" height="220"/>
+  <img src="stats.svg?v=2" alt="GitHub Stats" height="220"/>
   &nbsp;&nbsp;
-  <img src="langs.svg?v=1" alt="Top Languages" height="200"/>
+  <img src="langs.svg?v=2" alt="Top Languages" height="200"/>
 </p>
 
 <p align="center">
-  <img src="trophies.svg?v=1" alt="Trophies" width="820"/>
+  <img src="trophies.svg?v=2" alt="Trophies" width="820"/>
 </p>
 
 ---
@@ -116,7 +126,7 @@ hireable   : true
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arun-codex/arun-codex/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun-codex/arun-codex/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun-codex/arun-codex/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/arun-codex/arun-codex/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
   </picture>
@@ -131,17 +141,20 @@ hireable   : true
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:mrarunkumar1806@gmail.com">
+  <a href="mailto:arun.cyberx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/itzarun1806/">
+  <a href="https://www.linkedin.com/in/arun-codex/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/itz_arun_1806/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.instagram.com/arunx.xyz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://arunsingh.xyz/">
-    <img src="https://img.shields.io/badge/Blog-arunsingh.xyz-e040fb?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  <a href="https://x.com/itz_arun_1806/">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://arunx.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-arunx.xyz-e040fb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/arun-codex">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -149,8 +162,8 @@ hireable   : true
 </p>
 
 <p align="center">
-  <i>💬 Open to discussions on cybersecurity, ethical hacking, CTFs &amp; security tools</i><br>
-  <i>🤝 Looking to collaborate on security projects and open-source tools</i>
+  <i>💬 Open to conversations about cybersecurity, Linux, networking, web development & AI</i><br>
+  <i>🎯 Currently seeking cybersecurity / IT internship opportunities</i>
 </p>
 
 ---
@@ -160,5 +173,5 @@ hireable   : true
 </p>
 
 <p align="center">
-  <i>⭐ Star my repos if you find them useful · 🔐 Let's build a more secure digital world</i>
+  <i>⭐ Explore my repositories · 🌐 Visit arunx.xyz · 🛡️ Keep learning, building & improving</i>
 </p>
