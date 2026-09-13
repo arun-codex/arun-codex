@@ -16,15 +16,15 @@
 <br/>
 
 <a href="https://komarev.com/ghpvc/?username=arun-codex">
-  <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=e040fb&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="profile views"/>
 </a>
 <br/>
 <a href="https://github.com/arun-codex?tab=followers">
-  <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=7c4dff&labelColor=0d0117" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="followers"/>
 </a>
 <br/>
 <a href="https://github.com/arun-codex">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-e040fb?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
 </a>
 
 </td>
@@ -143,7 +143,7 @@ hireable   : true
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @arunx.xyz"/>
   </a>
   <a href="https://arunx.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-arunx.xyz-e040fb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-arunx.xyz-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/arun-codex">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -158,7 +158,7 @@ hireable   : true
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
 </p>
 
 <p align="center">

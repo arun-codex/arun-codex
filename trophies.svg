@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="175" viewBox="0 0 820 175">
 <defs>
-  <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#e040fb"/><stop offset="100%" stop-color="#7c4dff"/></linearGradient>
+  <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#06B6D4"/></linearGradient>
   <filter id="tglow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="white" stop-opacity="0"/>
@@ -10,56 +10,56 @@
   </linearGradient>
   <clipPath id="tc"><rect width="820" height="175" rx="16"/></clipPath>
 </defs>
-<rect width="820" height="175" rx="16" fill="#0d0117" stroke="#e040fb" stroke-width="1.5" stroke-opacity="0.4" clip-path="url(#tc)"/>
+<rect width="820" height="175" rx="16" fill="#0B0F14" stroke="#8B5CF6" stroke-width="1.5" stroke-opacity="0.4" clip-path="url(#tc)"/>
 <rect width="820" height="175" rx="16" fill="url(#shine)" clip-path="url(#tc)"/>
-<text x="410" y="22" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="13" font-weight="bold">🏆 Trophies</text>
+<text x="410" y="22" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="13" font-weight="bold">🏆 Trophies</text>
 <g opacity="0" transform="translate(30,35)">
   <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="30,55" to="30,35" dur="0.5s" begin="0.2s" fill="freeze" additive="replace"/>
-  <rect width="118" height="120" rx="12" fill="#1a0030" stroke="#e040fb" stroke-width="1" stroke-opacity="0.5"/>
+  <rect width="118" height="120" rx="12" fill="#111827" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.5"/>
   <text x="59" y="42" text-anchor="middle" font-size="28">🏅</text>
-  <text x="59" y="70" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="10" font-weight="bold">MultiLanguage</text>
-  <text x="59" y="88" text-anchor="middle" fill="#b388ff" font-family="monospace" font-size="9">SSS Rank</text>
-  <text x="59" y="108" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="9">3 Languages</text>
+  <text x="59" y="70" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="10" font-weight="bold">MultiLanguage</text>
+  <text x="59" y="88" text-anchor="middle" fill="#06B6D4" font-family="monospace" font-size="9">SSS Rank</text>
+  <text x="59" y="108" text-anchor="middle" fill="#E5E7EB" font-family="monospace" font-size="9">4 Languages</text>
 </g><g opacity="0" transform="translate(162,35)">
   <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="162,55" to="162,35" dur="0.5s" begin="0.4s" fill="freeze" additive="replace"/>
-  <rect width="118" height="120" rx="12" fill="#1a0030" stroke="#e040fb" stroke-width="1" stroke-opacity="0.5"/>
+  <rect width="118" height="120" rx="12" fill="#111827" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.5"/>
   <text x="59" y="42" text-anchor="middle" font-size="28">📦</text>
-  <text x="59" y="70" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="10" font-weight="bold">Repositories</text>
-  <text x="59" y="88" text-anchor="middle" fill="#b388ff" font-family="monospace" font-size="9">B Rank</text>
-  <text x="59" y="108" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="9">17 Repos</text>
+  <text x="59" y="70" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="10" font-weight="bold">Repositories</text>
+  <text x="59" y="88" text-anchor="middle" fill="#06B6D4" font-family="monospace" font-size="9">B Rank</text>
+  <text x="59" y="108" text-anchor="middle" fill="#E5E7EB" font-family="monospace" font-size="9">17 Repos</text>
 </g><g opacity="0" transform="translate(294,35)">
   <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6000000000000001s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="294,55" to="294,35" dur="0.5s" begin="0.6000000000000001s" fill="freeze" additive="replace"/>
-  <rect width="118" height="120" rx="12" fill="#1a0030" stroke="#e040fb" stroke-width="1" stroke-opacity="0.5"/>
+  <rect width="118" height="120" rx="12" fill="#111827" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.5"/>
   <text x="59" y="42" text-anchor="middle" font-size="28">⭐</text>
-  <text x="59" y="70" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="10" font-weight="bold">Stars</text>
-  <text x="59" y="88" text-anchor="middle" fill="#b388ff" font-family="monospace" font-size="9">B Rank</text>
-  <text x="59" y="108" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="9">12 Stars</text>
+  <text x="59" y="70" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="10" font-weight="bold">Stars</text>
+  <text x="59" y="88" text-anchor="middle" fill="#06B6D4" font-family="monospace" font-size="9">B Rank</text>
+  <text x="59" y="108" text-anchor="middle" fill="#E5E7EB" font-family="monospace" font-size="9">12 Stars</text>
 </g><g opacity="0" transform="translate(426,35)">
   <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="426,55" to="426,35" dur="0.5s" begin="0.8s" fill="freeze" additive="replace"/>
-  <rect width="118" height="120" rx="12" fill="#1a0030" stroke="#e040fb" stroke-width="1" stroke-opacity="0.5"/>
+  <rect width="118" height="120" rx="12" fill="#111827" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.5"/>
   <text x="59" y="42" text-anchor="middle" font-size="28">🔀</text>
-  <text x="59" y="70" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="10" font-weight="bold">PullRequest</text>
-  <text x="59" y="88" text-anchor="middle" fill="#b388ff" font-family="monospace" font-size="9">B Rank</text>
-  <text x="59" y="108" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="9">8 PRs</text>
+  <text x="59" y="70" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="10" font-weight="bold">PullRequest</text>
+  <text x="59" y="88" text-anchor="middle" fill="#06B6D4" font-family="monospace" font-size="9">B Rank</text>
+  <text x="59" y="108" text-anchor="middle" fill="#E5E7EB" font-family="monospace" font-size="9">8 PRs</text>
 </g><g opacity="0" transform="translate(558,35)">
   <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="558,55" to="558,35" dur="0.5s" begin="1.0s" fill="freeze" additive="replace"/>
-  <rect width="118" height="120" rx="12" fill="#1a0030" stroke="#e040fb" stroke-width="1" stroke-opacity="0.5"/>
+  <rect width="118" height="120" rx="12" fill="#111827" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.5"/>
   <text x="59" y="42" text-anchor="middle" font-size="28">👥</text>
-  <text x="59" y="70" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="10" font-weight="bold">Followers</text>
-  <text x="59" y="88" text-anchor="middle" fill="#b388ff" font-family="monospace" font-size="9">B Rank</text>
-  <text x="59" y="108" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="9">8 Followers</text>
+  <text x="59" y="70" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="10" font-weight="bold">Followers</text>
+  <text x="59" y="88" text-anchor="middle" fill="#06B6D4" font-family="monospace" font-size="9">B Rank</text>
+  <text x="59" y="108" text-anchor="middle" fill="#E5E7EB" font-family="monospace" font-size="9">8 Followers</text>
 </g><g opacity="0" transform="translate(690,35)">
   <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" from="690,55" to="690,35" dur="0.5s" begin="1.2s" fill="freeze" additive="replace"/>
-  <rect width="118" height="120" rx="12" fill="#1a0030" stroke="#e040fb" stroke-width="1" stroke-opacity="0.5"/>
+  <rect width="118" height="120" rx="12" fill="#111827" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.5"/>
   <text x="59" y="42" text-anchor="middle" font-size="28">💻</text>
-  <text x="59" y="70" text-anchor="middle" fill="#e040fb" font-family="monospace" font-size="10" font-weight="bold">Commits</text>
-  <text x="59" y="88" text-anchor="middle" fill="#b388ff" font-family="monospace" font-size="9">B Rank</text>
-  <text x="59" y="108" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="9">143 Commits</text>
+  <text x="59" y="70" text-anchor="middle" fill="#8B5CF6" font-family="monospace" font-size="10" font-weight="bold">Commits</text>
+  <text x="59" y="88" text-anchor="middle" fill="#06B6D4" font-family="monospace" font-size="9">B Rank</text>
+  <text x="59" y="108" text-anchor="middle" fill="#E5E7EB" font-family="monospace" font-size="9">143 Commits</text>
 </g>
 </svg>
