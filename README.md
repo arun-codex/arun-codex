@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="lanyard.svg?v=2" alt="Arun Kumar ID Badge" width="220"/>
+  <img src="lanyard.svg?v=3" alt="Arun Kumar ID Badge" width="145"/>
 </p>
 
 <p align="center">
