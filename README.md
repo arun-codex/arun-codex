@@ -9,51 +9,37 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="lanyard.svg?v=4" alt="Arun Kumar ID Badge" width="165"/>
-
-      <p>
-        <a href="https://komarev.com/ghpvc/?username=arun-codex"><img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/></a><br/>
-        <a href="https://github.com/arun-codex?tab=followers"><img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="Followers"/></a><br/>
-        <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
-      </p>
-
+      <img src="lanyard.svg?v=5" alt="Arun Kumar ID Badge" width="165"/><br/><br/>
+      <a href="https://komarev.com/ghpvc/?username=arun-codex"><img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/></a><br/>
+      <a href="https://github.com/arun-codex?tab=followers"><img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="Followers"/></a><br/>
+      <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
       <hr/>
-
       <h3>🎯 Focus Areas</h3>
-      <p>🛡️ Cybersecurity<br/>🐧 Linux & Networking<br/>📊 SOC / Blue Team<br/>🌐 Web Development</p>
-
+      <p>🛡️ Cybersecurity<br/>🐧 Linux &amp; Networking<br/>📊 SOC / Blue Team<br/>🌐 Web Development</p>
       <h3>⚡ Current Goal</h3>
-      <p>Build practical skills and qualify for an entry-level cybersecurity / IT internship.</p>
-
+      <p>Build practical skills for an entry-level cybersecurity / IT internship.</p>
       <p><a href="https://github.com/arun-codex/cybersecurity-learning">🧪 Learning Lab</a><br/><a href="https://arunx.xyz">🌐 Portfolio</a><br/><a href="https://github.com/arun-codex?tab=repositories">📂 All Projects</a></p>
     </td>
     <td width="70%" valign="top">
-
-### 🧑‍💻 About Me
-
-I'm Arun Kumar, a BCA student at Parul University in Gujarat, India, building a practical foundation in cybersecurity and software development.
-
-I learn by doing: working through Linux labs, networking exercises, security-focused experiments, and projects that turn concepts into something testable. Alongside cybersecurity, I build with modern web technologies and explore how to develop software more securely.
-
-```yaml
-username   : @arun-codex
+      <h2>🧑‍💻 About Me</h2>
+      <p>I'm Arun Kumar, a BCA student at Parul University in Gujarat, India, building a practical foundation in cybersecurity and software development.</p>
+      <p>I learn by doing: working through Linux labs, networking exercises, security-focused experiments, and projects that turn concepts into something testable. Alongside cybersecurity, I build with modern web technologies and explore how to develop software more securely.</p>
+      <pre><code>username   : @arun-codex
 education  : BCA @ Parul University
 interests  : Cybersecurity · Linux · Networking · Web Development
 currently  : Hands-on labs · Practical projects · Secure development
 goal       : Cybersecurity / IT internship
-motto      : "Build. Break. Secure. Repeat."
-```
-
-> 🛡️ My focus is on building real skills through consistent practice, documenting what I learn, and shipping projects that demonstrate how I think and solve problems.
-
-### 🔥 Right Now
-- 🐧 **Linux & Networking:** Practicing shell commands, permissions, sockets, and core networking concepts
-- 🔐 **Cybersecurity:** Working through structured labs and documenting each exercise in my learning repository
-- 🧪 **Hands-on Practice:** Testing commands, reviewing outputs, and writing clear notes on what I learn
-- 🌐 **Development:** Building and improving projects with TypeScript, React, and Next.js
-- 📚 **Learning in Public:** Tracking progress and turning study sessions into practical, reviewable work
-- 🎯 **Next Goal:** Build a strong foundation for an entry-level cybersecurity / IT internship
-
+motto      : "Build. Break. Secure. Repeat."</code></pre>
+      <blockquote>🛡️ My focus is on building real skills through consistent practice, documenting what I learn, and shipping projects that demonstrate how I think and solve problems.</blockquote>
+      <h2>🔥 Right Now</h2>
+      <ul>
+        <li>🐧 <strong>Linux &amp; Networking:</strong> Practicing shell commands, permissions, sockets, and core networking concepts</li>
+        <li>🔐 <strong>Cybersecurity:</strong> Working through structured labs and documenting each exercise in my learning repository</li>
+        <li>🧪 <strong>Hands-on Practice:</strong> Testing commands, reviewing outputs, and writing clear notes on what I learn</li>
+        <li>🌐 <strong>Development:</strong> Building and improving projects with TypeScript, React, and Next.js</li>
+        <li>📚 <strong>Learning in Public:</strong> Tracking progress and turning study sessions into practical, reviewable work</li>
+        <li>🎯 <strong>Next Goal:</strong> Build a strong foundation for an entry-level cybersecurity / IT internship</li>
+      </ul>
     </td>
   </tr>
 </table>
