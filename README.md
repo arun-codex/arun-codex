@@ -6,21 +6,28 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="lanyard.svg?v=3" alt="Arun Kumar ID Badge" width="145"/>
-</p>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="lanyard.svg?v=4" alt="Arun Kumar ID Badge" width="165"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=arun-codex">
-    <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/arun-codex?tab=followers">
-    <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="Followers"/>
-  </a>
-  <a href="https://github.com/arun-codex">
-    <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
-  </a>
-</p>
+      <p>
+        <a href="https://komarev.com/ghpvc/?username=arun-codex"><img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/></a><br/>
+        <a href="https://github.com/arun-codex?tab=followers"><img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="Followers"/></a><br/>
+        <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
+      </p>
+
+      <hr/>
+
+      <h3>🎯 Focus Areas</h3>
+      <p>🛡️ Cybersecurity<br/>🐧 Linux & Networking<br/>📊 SOC / Blue Team<br/>🌐 Web Development</p>
+
+      <h3>⚡ Current Goal</h3>
+      <p>Build practical skills and qualify for an entry-level cybersecurity / IT internship.</p>
+
+      <p><a href="https://github.com/arun-codex/cybersecurity-learning">🧪 Learning Lab</a><br/><a href="https://arunx.xyz">🌐 Portfolio</a><br/><a href="https://github.com/arun-codex?tab=repositories">📂 All Projects</a></p>
+    </td>
+    <td width="70%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -47,6 +54,9 @@ motto      : "Build. Break. Secure. Repeat."
 - 📚 **Learning in Public:** Tracking progress and turning study sessions into practical, reviewable work
 - 🎯 **Next Goal:** Build a strong foundation for an entry-level cybersecurity / IT internship
 
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Arsenal
