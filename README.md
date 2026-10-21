@@ -122,7 +122,7 @@ hireable   : true
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-codex&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img src="https://ghchart.rshah.org/8b5cf6/arun-codex" alt="Arun's GitHub contribution graph" width="100%"/>
 </p>
 
 ---
