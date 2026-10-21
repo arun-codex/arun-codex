@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200">
 <defs>
-  <linearGradient id="ts" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#3178C6"/><stop offset="100%" stop-color="#06B6D4"/></linearGradient>
-  <linearGradient id="sh" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4EAA25"/><stop offset="100%" stop-color="#06B6D4"/></linearGradient>
-  <linearGradient id="cc" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#3B82F6"/></linearGradient>
+  <linearGradient id="ts" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="sh" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="cc" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#8B5CF6"/></linearGradient>
   <linearGradient id="js" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#F7DF1E"/><stop offset="100%" stop-color="#F59E0B"/></linearGradient>
 </defs>
-<rect width="420" height="200" rx="16" fill="#0B0F14" stroke="#8B5CF6" stroke-width="1.5" stroke-opacity="0.4"/>
-<text x="18" y="30" fill="#8B5CF6" font-family="monospace" font-size="13" font-weight="bold">🌐 Top Languages</text>
+<rect width="420" height="200" rx="16" fill="#0B0713" stroke="#A78BFA" stroke-width="1.5" stroke-opacity="0.4"/>
+<text x="18" y="30" fill="#A78BFA" font-family="monospace" font-size="13" font-weight="bold">🌐 Top Languages</text>
 <g font-family="monospace" font-size="12">
   <!-- TypeScript 35% -->
-  <text x="18" y="65" fill="#3178C6">TypeScript</text>
+  <text x="18" y="65" fill="#8B5CF6">TypeScript</text>
   <rect x="18" y="72" height="14" width="0" rx="7" fill="url(#ts)">
     <animate attributeName="width" from="0" to="136" dur="1s" begin="0.3s" fill="freeze"/>
   </rect>
-  <text x="162" y="83" fill="#94A3B8" font-size="11" opacity="0">35%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.3s" fill="freeze"/></text>
+  <text x="162" y="83" fill="#C4B5FD" font-size="11" opacity="0">35%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.3s" fill="freeze"/></text>
   <!-- C 25% -->
-  <text x="18" y="112" fill="#8B5CF6">C</text>
+  <text x="18" y="112" fill="#A78BFA">C</text>
   <rect x="18" y="119" height="14" width="0" rx="7" fill="url(#cc)">
     <animate attributeName="width" from="0" to="97" dur="1s" begin="0.6s" fill="freeze"/>
   </rect>
-  <text x="123" y="130" fill="#94A3B8" font-size="11" opacity="0">25%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.6s" fill="freeze"/></text>
+  <text x="123" y="130" fill="#C4B5FD" font-size="11" opacity="0">25%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.6s" fill="freeze"/></text>
   <!-- JavaScript 25% -->
   <text x="18" y="158" fill="#F7DF1E">JavaScript</text>
   <rect x="18" y="165" height="14" width="0" rx="7" fill="url(#js)">
     <animate attributeName="width" from="0" to="97" dur="1s" begin="0.9s" fill="freeze"/>
   </rect>
-  <text x="123" y="176" fill="#94A3B8" font-size="11" opacity="0">25%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.9s" fill="freeze"/></text>
+  <text x="123" y="176" fill="#C4B5FD" font-size="11" opacity="0">25%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.9s" fill="freeze"/></text>
   <!-- Bash 15% -->
-  <text x="220" y="112" fill="#06B6D4">Bash</text>
+  <text x="220" y="112" fill="#C4B5FD">Bash</text>
   <rect x="220" y="119" height="14" width="0" rx="7" fill="url(#sh)">
     <animate attributeName="width" from="0" to="58" dur="1s" begin="1.2s" fill="freeze"/>
   </rect>
-  <text x="286" y="130" fill="#94A3B8" font-size="11" opacity="0">15%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/></text>
+  <text x="286" y="130" fill="#C4B5FD" font-size="11" opacity="0">15%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/></text>
 </g>
 </svg>
