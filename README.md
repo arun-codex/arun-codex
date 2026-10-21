@@ -124,16 +124,25 @@ motto      : "Build. Break. Secure. Repeat."</code></pre>
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="stats.svg?v=2" alt="GitHub Stats" width="100%"/>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="stats-light.svg?v=1"/>
+        <img src="stats.svg?v=3" alt="GitHub Stats" width="100%"/>
+      </picture>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="langs.svg?v=2" alt="Top Languages" width="100%"/>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=1"/>
+        <img src="langs.svg?v=3" alt="Top Languages" width="100%"/>
+      </picture>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="trophies.svg?v=2" alt="GitHub Trophies" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=1"/>
+    <img src="trophies.svg?v=3" alt="GitHub Trophies" width="100%"/>
+  </picture>
 </p>
 
 ---
