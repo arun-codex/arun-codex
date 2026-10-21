@@ -1,17 +1,13 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="banner.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-    <img src="banner.svg?v=1" alt="Arun Kumar — Cybersecurity Developer Banner" width="100%"/>
-  </picture>
+  <img src="banner.svg?v=2" alt="Arun Kumar — Cybersecurity Developer Banner" width="100%"/>
 </p>
 
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="lanyard.svg?v=5" alt="Arun Kumar ID Badge" width="165"/><br/><br/>
+      <img src="lanyard.svg?v=6" alt="Arun Kumar ID Badge" width="165"/><br/><br/>
       <a href="https://komarev.com/ghpvc/?username=arun-codex"><img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/></a><br/>
-      <a href="https://github.com/arun-codex?tab=followers"><img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="Followers"/></a><br/>
+      <a href="https://github.com/arun-codex?tab=followers"><img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=c4b5fd&labelColor=0b0713" alt="Followers"/></a><br/>
       <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
       <hr/>
       <h3>🎯 Focus Areas</h3>
@@ -61,9 +57,9 @@ motto      : "Build. Break. Secure. Repeat."</code></pre>
   <strong>🛡️ Cybersecurity & Systems</strong><br/><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Networking-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Wireshark-8B5CF6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-A78BFA?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
 <p align="center">
@@ -124,25 +120,16 @@ motto      : "Build. Break. Secure. Repeat."</code></pre>
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="stats-light.svg?v=1"/>
-        <img src="stats.svg?v=3" alt="GitHub Stats" width="100%"/>
-      </picture>
+      <img src="stats.svg?v=4" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=1"/>
-        <img src="langs.svg?v=3" alt="Top Languages" width="100%"/>
-      </picture>
+      <img src="langs.svg?v=4" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=1"/>
-    <img src="trophies.svg?v=3" alt="GitHub Trophies" width="100%"/>
-  </picture>
+  <img src="trophies.svg?v=4" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
