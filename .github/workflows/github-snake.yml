@@ -2,8 +2,16 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # Daily at noon UTC
-  workflow_dispatch:        # Manual trigger
+    - cron: "0 12 * * *" # Daily at noon UTC
+  workflow_dispatch:
+
+# Required for the workflow to push generated SVGs to the output branch.
+permissions:
+  contents: write
+
+concurrency:
+  group: github-snake
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -26,5 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
