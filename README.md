@@ -6,31 +6,21 @@
   </picture>
 </p>
 
-<table>
-<tr>
-<td width="35%" align="center" valign="top">
+<p align="center">
+  <img src="lanyard.svg?v=2" alt="Arun Kumar ID Badge" width="220"/>
+</p>
 
-<!-- ═══ LEFT: ID Card ═══ -->
-<img src="lanyard.svg?v=1" alt="Arun Kumar ID Badge" height="360"/>
-
-<br/>
-
-<a href="https://komarev.com/ghpvc/?username=arun-codex">
-  <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="profile views"/>
-</a>
-<br/>
-<a href="https://github.com/arun-codex?tab=followers">
-  <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="followers"/>
-</a>
-<br/>
-<a href="https://github.com/arun-codex">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
-</a>
-
-</td>
-<td width="65%" valign="top">
-
-<!-- ═══ RIGHT: About Me ═══ -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=arun-codex">
+    <img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/arun-codex?tab=followers">
+    <img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=06b6d4&labelColor=0b0f14" alt="Followers"/>
+  </a>
+  <a href="https://github.com/arun-codex">
+    <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
+  </a>
+</p>
 
 ### 🧑‍💻 About Me
 
@@ -49,8 +39,6 @@ motto      : "Build. Break. Secure. Repeat."
 
 > 🛡️ My focus is on building real skills through consistent practice, documenting what I learn, and shipping projects that demonstrate how I think and solve problems.
 
-<br/>
-
 ### 🔥 Right Now
 - 🐧 **Linux & Networking:** Practicing shell commands, permissions, sockets, and core networking concepts
 - 🔐 **Cybersecurity:** Working through structured labs and documenting each exercise in my learning repository
@@ -58,10 +46,6 @@ motto      : "Build. Break. Secure. Repeat."
 - 🌐 **Development:** Building and improving projects with TypeScript, React, and Next.js
 - 📚 **Learning in Public:** Tracking progress and turning study sessions into practical, reviewable work
 - 🎯 **Next Goal:** Build a strong foundation for an entry-level cybersecurity / IT internship
-
-</td>
-</tr>
-</table>
 
 ---
 
