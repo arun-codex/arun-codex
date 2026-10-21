@@ -52,11 +52,12 @@ motto      : "Build. Break. Secure. Repeat."
 <br/>
 
 ### 🔥 Right Now
-- 🐧 Practicing Linux fundamentals, permissions, shell commands, and networking
-- 🔐 Building cybersecurity knowledge through hands-on labs and security-focused projects
-- 🌐 Developing projects with TypeScript, React, Next.js, and modern web technologies
-- 🧪 Turning learning into documented experiments and practical portfolio work
-- 🎯 Looking for cybersecurity / IT internship opportunities where I can keep learning and contribute
+- 🐧 **Linux & Networking:** Practicing shell commands, permissions, sockets, and core networking concepts
+- 🔐 **Cybersecurity:** Working through structured labs and documenting each exercise in my learning repository
+- 🧪 **Hands-on Practice:** Testing commands, reviewing outputs, and writing clear notes on what I learn
+- 🌐 **Development:** Building and improving projects with TypeScript, React, and Next.js
+- 📚 **Learning in Public:** Tracking progress and turning study sessions into practical, reviewable work
+- 🎯 **Next Goal:** Build a strong foundation for an entry-level cybersecurity / IT internship
 
 </td>
 </tr>
