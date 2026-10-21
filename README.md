@@ -98,10 +98,28 @@ motto      : "Build. Break. Secure. Repeat."
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/arun-codex/cybersecurity-learning">
+    <img src="https://img.shields.io/badge/Cybersecurity-Labs%20%26%20Notes-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Learning"/>
+  </a>
+  <a href="https://github.com/arun-codex/Weather">
+    <img src="https://img.shields.io/badge/Weather-React%20%26%20Vite-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Weather project"/>
+  </a>
+  <a href="https://github.com/arun-codex/c-learning-project">
+    <img src="https://img.shields.io/badge/C%20Learning-Programming%20Basics-64748b?style=for-the-badge&logo=c&logoColor=white" alt="C Learning Project"/>
+  </a>
+</p>
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
+| Project | What it demonstrates | Stack | Links |
+|---|---|---|---|
+| 🛡️ **Cybersecurity Learning Lab** | Structured hands-on learning in networking, Linux, Wireshark, Nmap, SOC / Blue Team fundamentals, and an offline SSH log-triage utility with sanitized sample logs | Linux · Networking · Python · Wireshark · Nmap | [Repository](https://github.com/arun-codex/cybersecurity-learning) |
+| 🌦️ **Weather Dashboard** | Responsive weather experience with city search, current conditions, hourly and 7-day forecasts, air quality, saved cities, and an Android build | React · Vite · Tailwind CSS · Zustand · Capacitor | [Repository](https://github.com/arun-codex/Weather) · [Live app](https://weather-omega-pink.vercel.app/) |
+| 💻 **C Learning Project** | Chapter-based C programming practice covering variables, I/O, operators, type casting, and conditional logic | C · Programming fundamentals | [Repository](https://github.com/arun-codex/c-learning-project) |
+| 🤖 **Ask Arun / Personal Portfolio** | Portfolio presence for showcasing projects, skills, and contact information | Next.js · TypeScript | [Portfolio](https://arunx.xyz) · [Repository](https://github.com/arun-codex/portfolio) |
+
+<p align="center"><em>Selected projects that show what I'm building and learning. More work will be added as it becomes ready to share.</em></p>
+
+---------|-------------|------|------|
 | 🔐 **Linux Access Control Simulation** | Simulated Linux permission systems with users, roles, `chmod`, and file access management | Linux · Bash · Security | [GitHub](https://github.com/arun-codex) |
 | 🤖 **Ask Arun — AI Portfolio Assistant** | AI assistant that helps visitors explore Arun's projects, skills, experience and contact information | Next.js · TypeScript · AI | [Live](https://arunx.xyz) |
 | 🌦️ **Weather UI Dashboard** | Modern weather dashboard with saved cities, forecasts, responsive UI and smooth interactions | React · Next.js · Tailwind | [Live](https://weather-omega-pink.vercel.app/) |
