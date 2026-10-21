@@ -141,14 +141,19 @@ motto      : "Build. Break. Secure. Repeat."
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="stats.svg?v=1" alt="GitHub Stats" height="220"/>
-  &nbsp;&nbsp;
-  <img src="langs.svg?v=1" alt="Top Languages" height="200"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="stats.svg?v=2" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="langs.svg?v=2" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="trophies.svg?v=1" alt="Trophies" width="820"/>
+  <img src="trophies.svg?v=2" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
