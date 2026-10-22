@@ -6,7 +6,7 @@
   <tr>
     <td width="30%" align="center" valign="top">
       <img src="lanyard.svg?v=6" alt="Arun Kumar ID Badge" width="165"/><br/><br/>
-      <a href="https://komarev.com/ghpvc/?username=arun-codex"><img src="https://komarev.com/ghpvc/?username=arun-codex&label=Views&color=8b5cf6&style=flat-square" alt="Profile views"/></a><br/>
+      <a href="https://github.com/arun-codex"><img src="https://img.shields.io/badge/Profile%20Views-GitHub-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Profile on GitHub"/></a><br/>
       <a href="https://github.com/arun-codex?tab=followers"><img src="https://img.shields.io/github/followers/arun-codex?label=Followers&style=flat-square&color=c4b5fd&labelColor=0b0713" alt="Followers"/></a><br/>
       <img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open to internships"/>
       <hr/>
